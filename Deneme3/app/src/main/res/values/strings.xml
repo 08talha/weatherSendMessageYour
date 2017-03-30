@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Deneme3</string>
+    <string name="action_ayarlar" />
+    <string name="textview">TextView</string>
+    <string name="konum">Konum</string>
+    <string name="dogumtarihi">DogumTarihi</string>
+    <string name="ad">AD</string>
+    <string name="hobileriniz">Hobileriniz</string>
+
+</resources>
